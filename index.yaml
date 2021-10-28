@@ -3,7 +3,7 @@ entries:
   myapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-28T20:14:56.648415792+03:00"
+    created: "2021-10-28T20:23:16.82917852+03:00"
     description: A Helm chart for Kubernetes
     digest: fab9cf9ba48e674a226433ae256694d0c9ae06449c99a695b353fcc9409a9b5d
     name: myapp
@@ -11,14 +11,4 @@ entries:
     urls:
     - https://bugabu.github.io/helm-myapp/myapp-0.3.0.tgz
     version: 0.3.0
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2021-10-28T20:14:56.647907219+03:00"
-    description: A Helm chart for Kubernetes
-    digest: f0ffcaa23bd9cf0437218df37bf7e2f4eb4d5878875069e6c9820a1d54cc23d7
-    name: myapp
-    type: application
-    urls:
-    - https://bugabu.github.io/helm-myapp/myapp-0.2.0.tgz
-    version: 0.2.0
-generated: "2021-10-28T20:14:56.647234536+03:00"
+generated: "2021-10-28T20:23:16.828595051+03:00"
